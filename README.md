@@ -1,8 +1,8 @@
-Choose your language.
-[Turkish](README.tr.md) | [English](README.md) | [Japanese](README.jp.md) | [Russian](README.ru.md) | [Arabic](README.ar.md)
+<h1 align="center">
+  # 🦇 ShadowByte 🦇
+  <img width="1920" height="658" alt="shadowbyte" src="https://github.com/user-attachments/assets/df3b01d9-ecdd-4ad5-a5b5-86c207666a2f" />
+</h1> 
 
-# 🦇 ShadowByte 🦇
-<img width="1920" height="658" alt="shadowbyte" src="https://github.com/user-attachments/assets/df3b01d9-ecdd-4ad5-a5b5-86c207666a2f" />
 
 
 ## ✨ What is ShadowByte?
