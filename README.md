@@ -1,28 +1,20 @@
 Choose your language.
 [Turkish](README.tr.md) | [English](README.md) | [Japanese](README.jp.md) | [Russian](README.ru.md) | [Arabic](README.ar.md)
 
-# 🍁 Shinrai
-<img width="1920" height="658" alt="shinraibanner" src="https://github.com/user-attachments/assets/6c637b2d-b035-4f3e-a7ae-ca0ff3f2202a" />
+# 🦇 ShadowByte 🦇
+<img width="1920" height="658" alt="shadowbyte" src="https://github.com/user-attachments/assets/df3b01d9-ecdd-4ad5-a5b5-86c207666a2f" />
 
-## ✨ What is Shinrai?
 
-**Shinrai** is a sleek and powerful utility mod for **Minecraft 1.21.7**, developed using the **Fabric Mod Loader**.  
+## ✨ What is ShadowByte?
+
+**ShadowByte** is a fork of Shinrai - https://github.com/Manifestors-Open-Source/Shinrai - which is a sleek and powerful utility mod for **Minecraft 1.21.7**, developed using the **Fabric Mod Loader**.  
 Our goal is simple: **make things easier, faster, and more enjoyable**, while maintaining performance and clarity.
 
 ---
 
 ## 🔴 Features
 
-Shinrai offers a wide array of features to empower your Minecraft experience:
-
-- 🗡️ **Auto Attack** (a.k.a. KillAura)  
-- 🧱 **Auto Bridging** (a.k.a. Scaffold, BlockFly)  
-- 👁️ **ESP & Chams** (Wallhack-style visuals)  
-- ⚙️ And **many more** movement, combat, and rendering tools
-
-Crafted with care for both performance and customization.
-
----
+ShadowByte offers the same features as Shinrai - https://github.com/Manifestors-Open-Source/Shinrai - plus some additions made my yours truly
 
 ## ❓ Why "cheating"?
 
@@ -38,7 +30,7 @@ Shinrai is about testing limits, enjoying creative chaos, and doing so with styl
 Yes, contributions are welcome!  
 We’d love to see your ideas, features, and improvements. Whether you’re a developer, designer, or just someone with a cool concept — fork the project, open a pull request, and let’s build something great.
 
-Let’s make Shinrai even better. 🍁
+## I hope that I can make Shinrai EVEN better!!!
 
 ---
 
@@ -48,6 +40,5 @@ This project is licensed under the **GNU General Public License v3 (GPLv3)**.
 For the full license text, please see the [LICENSE](./LICENSE) file.
 
 
-> “Shinrai” (信頼) means **trust** in Japanese — and we're always trust our community. 💖
+<img width="1920" height="658" alt="shadowbyte" src="https://github.com/user-attachments/assets/b9bf3ff0-3971-4595-baae-50f86e0ca8e5" />
 
-<img width="1920" height="658" alt="outbanner" src="https://github.com/user-attachments/assets/3d1279f7-05b1-41c0-853a-6eac7802c03f" />
